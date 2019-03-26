@@ -11,4 +11,4 @@ WEB_HOOK_URL に取得した Slack Webhook URL を記入してください。
 
 AWS Lambda にデプロイして使ってください。
 
-詳しい解説は Qiita に投稿します。
+詳しい解説は Qiita に投稿しますでそちらを参照してください。
